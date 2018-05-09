@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bytecode-source-finder.iml" filepath="$PROJECT_DIR$/.idea/modules/bytecode-source-finder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bytecode-source-finder_main.iml" filepath="$PROJECT_DIR$/.idea/modules/bytecode-source-finder_main.iml" group="bytecode-source-finder" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bytecode-source-finder_test.iml" filepath="$PROJECT_DIR$/.idea/modules/bytecode-source-finder_test.iml" group="bytecode-source-finder" />
+    </modules>
+  </component>
+</project>
